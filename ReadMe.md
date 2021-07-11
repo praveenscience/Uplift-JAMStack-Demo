@@ -14,3 +14,5 @@ This is a part of Praveen’s Demo on GirlScript Uplift Programme.
 - Fetch API: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 - Source Code: https://codesandbox.io/s/elastic-silence-n6ncg
 - Demo: https://n6ncg.csb.app/
+- React Developer Roadmap: https://roadmap.sh/react
+- 30 Days of React JS: Solving 30 Problems in 30 Days! https://events.praveen.science/30-days-of-react/
